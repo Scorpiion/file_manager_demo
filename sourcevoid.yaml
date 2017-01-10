@@ -4,6 +4,6 @@ version: latest
 build:
     - npm install
 
-start: npm start -- -p 8080 -d /home/cuser
+start: npm start -- -p 8080 -d /home/cuser/source
 
 
